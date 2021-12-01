@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 60%;
+  min-width: 800px;
+  margin: 0 auto;
+  background: #f5deb3;
+}
+
+h1, h2, h3{
+text-align: center
+}
+
+img{
+float: left;
+padding: 1em;
+}
+
+nav ul {
+display: flex;
+align-items: center;
+justify-content: space-around;
+    list-style: none;
+  background: #ffa07a;
+
+  }
